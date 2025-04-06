@@ -16,6 +16,7 @@ back-end/credentials.json
 back-end/dist
 back-end/.env
 back-end/prod-env.yaml
+front-end/credentials.js
 
 # Editor directories and files
 .vscode/*
